@@ -70,6 +70,7 @@ python_lugat = {
     "integer":"Butun son",
     "float": "O'nlik son",
     "string": "Matn",
+    "if": "Agar",
     "else":"Aks holda",
     "for":"Uchun",
     "true":"Rost",
