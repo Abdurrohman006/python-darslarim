@@ -70,10 +70,9 @@ python_lugat = {
     "integer":"Butun son",
     "float": "O'nlik son",
     "string": "Matn",
-    "if":"Agar",
     "else":"Aks holda",
     "for":"Uchun",
-    "true":"To'g'ri",
+    "true":"Rost",
     "false":"Yolg'on",
     "list":"Ro'yxat",
     "tuple":"O'zgarmas ro'yxat"}
